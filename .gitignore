@@ -1,0 +1,8 @@
+build/
+*.img
+*.vmdk
+*.iso
+*.bin
+*.o
+*.elf
+*.exe
